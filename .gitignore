@@ -1,0 +1,6 @@
+# Ignore ROOT files
+*.root
+*.json
+results/
+*.pdf
+Vega_sWeights/**/*.txt
