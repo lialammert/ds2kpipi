@@ -1,5 +1,6 @@
-README for the Run 3 CP asymmetry analysis of Ds->Kpipi. 
-This is made for the `ds2kpipi_cpv` GitLab.
+This README explains the use of the source files and scripts developed during my Master's thesis at CERN in the LHCb collaboration. The aim of the work was to contribute to the measurements of Charge-Parity (CP) asymmetries in the charm sector, more specifically in the Cabibbo suppressed Ds -> Kpipi decay. This was done using Run 3 (2024) data from the LHCb experiment at CERN.
+This thesis focused on the use of a control channel (Ds -> KSK) to compute nuisance asymmetries using statistical tools for data analysis, mainly pyROOT.
+
 
 # Computing the raw asymmetry of Ds->KsK with Run3 data
 
